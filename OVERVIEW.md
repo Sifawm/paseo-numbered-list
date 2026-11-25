@@ -1,0 +1,1 @@
+Continues numbered answers in the chat composer. After a line like `3. answer`, a new line starts with `4. `. Pressing Backspace right after that clears the inserted prefix so the line starts empty. Pressing Enter on an empty item like `4. ` clears it and ends the list. Desktop and web only.
